@@ -1,4 +1,4 @@
-# Zoomms — effects for Zoom MultiStomp
+# 45 effects for Zoom MultiStomp
 
 **45 independently designed / adapted audio effects for the original Zoom MultiStomp MS-70CDR.**
 Welcome to this repository! I've spent the last weeks and many hours developing these effects.
