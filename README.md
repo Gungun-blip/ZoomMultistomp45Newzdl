@@ -41,6 +41,7 @@ I continue to oppose the use of AI in creative processes, such as generating art
 If you think this unfair, I can also handle some criticism, so feel free to write it.
 
 The complete effect list is in **[effects.csv](effects.csv)**, including each effect’s controls (where documented), inspiration, compatibility IDs, filename, and SHA-256 checksum.
+The repository does **not** contain a standalone Zoom firmware image or TI compiler, but stock-derived code is embedded inside the effect binaries. Permission or another lawful basis for redistribution has **not** been established. Please avoid mirroring or redistributing the ZDLs while we investigate. See [RIGHTS.md](RIGHTS.md) and [the remediation status](docs/REBUILD_STATUS.md).
 
 
 ## Repository contents
