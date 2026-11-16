@@ -1,13 +1,13 @@
 # 45 effects for Zoom MultiStomp
 
-**45 independently designed / adapted audio effects for the original Zoom MultiStomp MS-70CDR.**
+**45 designed / adapted audio effects for the original Zoom MultiStomp, taking it to new heights.**
 Welcome to this repository! I've spent the last weeks and many hours developing these effects.
 
 IF YOU WANT TO TEST THESE EFFECTS BEWARE AND PROTECT YOUR EARS!
 There can still be a lot of bugs, so I recommend using an audio interface, preferably with a limiter.
 I encountered bugs of extreme loudness during development and you WILL need to protect your ears.
 
-I have only hardware tested on a zoom ms50g. All 45 effects are something I found nice, but not necessarily perfect.
+I have only hardware tested on a zoom ms50g. All 45 effects are something I found very nice and usable, but not necessarily perfect yet.
 I especially liked the granular delays, one-tap clock looper, the afterneath-esque reverb and the tape effects like the deco. 
 Also the phaser mode 3 is awesome.
 The ranges of the knobs are poorly defined. For instance, I only run the Afterneath with all knobs maxed, except the drag which was at 35.
