@@ -15,10 +15,17 @@ This is the first beta, and I'll be making many revisions going forth.
 I have also not tested the effects together with more than 1-2 effects at a time. The DSP load of each effect is not precise.
 
 # Installation
-I recommend using zoom midistomp 2.0: https://www.reddit.com/r/zoommultistomp/comments/1xlwm57/midistomp_v20_my_free_custom_firmware_for_the/
+I recommend and have only tested these using zoom midistomp 2.0: https://www.reddit.com/r/zoommultistomp/comments/1xlwm57/midistomp_v20_my_free_custom_firmware_for_the/
+
 I also recommend installing another repository first as a test, such as themanro: https://github.com/themanro/ZoomMultistompZDL?utm_source=chatgpt.com
+
 I use the Zoom Effects manager 2 for installation: https://zoomeffectmanager.com/en/
 
+## Known bugs by 17/11/2026
+
+The effects may load in with all knobs at 0, even though the display says otherwise. Wiggle all knobs of the effect and it should function.
+
+# Notes and more 
 
 Bear in mind - these are NOT direct ports of existing software, but interpretations.
 the main goal was to make something I can work with musically in my own creative practice. 
@@ -32,7 +39,7 @@ I claim no ownership as such.
 If you enjoy this work I spent hours and hours of tuning, feel free to buy me a coffee: https://buymeacoffee.com/silvertongue12
 Also totally fair if you don't want to.
 
-AI Disclaimer! (and tips)
+# AI Disclaimer! (and tips)
 I'm only decent at programming in python, and have no rust or C experience.
 I prompted with the specific audio goals - "grain delay with random splices" "modelled asymmetric drive with a low q 3 db boost at 120 hz" and so on.
 It then generated the prompted effects in C, inhouse rewrote it as .zdls and used ziddle, a multistomp emulator to test it.
