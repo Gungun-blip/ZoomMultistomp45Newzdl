@@ -15,6 +15,9 @@ This is the first beta, and I'll be making many revisions going forth.
 I have also not tested the effects together with more than 1-2 effects at a time. The DSP load of each effect is not precise.
 
 # Installation
+
+I have set up my folder structure on my computer exactly as themanros repository, and I copy the contents of "Zoom Multistomp" from this repository into the /dist folder
+
 I recommend and have only tested these using zoom midistomp 2.0: https://www.reddit.com/r/zoommultistomp/comments/1xlwm57/midistomp_v20_my_free_custom_firmware_for_the/
 
 I also recommend installing another repository first as a test, such as themanro: https://github.com/themanro/ZoomMultistompZDL?utm_source=chatgpt.com
