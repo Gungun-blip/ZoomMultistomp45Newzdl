@@ -1,6 +1,6 @@
 # 45 effects for Zoom MultiStomp
 
-**45 designed / adapted audio effects for the original Zoom MultiStomp, taking it to new heights.**
+**45 "designed" / adapted audio effects for the original Zoom MultiStomp, taking it to new heights.**
 Welcome to this repository! I've spent the last weeks and many hours developing these effects.
 
 IF YOU WANT TO TEST THESE EFFECTS BEWARE AND PROTECT YOUR EARS!
@@ -13,6 +13,12 @@ Also the phaser mode 3 is awesome.
 The ranges of the knobs are poorly defined. For instance, I only run the Afterneath with all knobs maxed, except the drag which was at 35.
 This is the first beta, and I'll be making many revisions going forth.
 I have also not tested the effects together with more than 1-2 effects at a time. The DSP load of each effect is not precise.
+
+# Installation
+I recommend using zoom midistomp 2.0: https://www.reddit.com/r/zoommultistomp/comments/1xlwm57/midistomp_v20_my_free_custom_firmware_for_the/
+I also recommend installing another repository first as a test, such as themanro: https://github.com/themanro/ZoomMultistompZDL?utm_source=chatgpt.com
+I use the Zoom Effects manager 2 for installation: https://zoomeffectmanager.com/en/
+
 
 Bear in mind - these are NOT direct ports of existing software, but interpretations.
 the main goal was to make something I can work with musically in my own creative practice. 
