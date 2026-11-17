@@ -28,6 +28,8 @@ I use the Zoom Effects manager 2 for installation: https://zoomeffectmanager.com
 
 The effects may load in with all knobs at 0, even though the display says otherwise. Wiggle all knobs of the effect and it should function.
 
+The first upload "45BBetaZDL" didn't work for some people, so rollback is added
+
 # Notes and more 
 
 Bear in mind - these are NOT direct ports of existing software, but interpretations.
